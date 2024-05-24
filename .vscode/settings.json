@@ -1,0 +1,8 @@
+{
+  "eslint.enable": false,
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "editor.codeActionsOnSave": {},
+  "files.associations": {
+    "oxlintrc.json": "jsonc"
+  }
+}
